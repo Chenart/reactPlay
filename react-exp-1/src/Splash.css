@@ -1,0 +1,6 @@
+@import url(//fonts.googleapis.com/earlyaccess/notosanstc.css);
+
+.splash {
+  text-align: center;
+  font-family: 'Noto Sans TC', 'Roboto'; /* h1 tag will inherit this style from the parent div, which is .splash */
+}
